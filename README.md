@@ -1,3 +1,3 @@
 # Spack dummy package
 
-Dummy package for investigating spack deployment
+Dummy package without MPI for investigating spack deployment
