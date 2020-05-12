@@ -1,7 +1,7 @@
 from spack import *
 
 
-class SpackDummyPackage(MakefilePackage):
+class SpackNompiDummyPackage(MakefilePackage):
     """A non-mpi hello world that is packaged for spack."""
 
     homepage = "http://www.anl.gov"

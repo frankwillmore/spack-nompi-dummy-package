@@ -1,6 +1,7 @@
 #!/usr/bin/make
 
-PREFIX?=/tmp
+#PREFIX?=/tmp
+#PREFIX?=/tmp
 
 made: configured	
 	pwd
