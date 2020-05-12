@@ -1,5 +1,5 @@
 configured
-mpi_hello
+nompi_hello
 check.mpi
 *.cobaltlog
 *.error
