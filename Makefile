@@ -21,7 +21,7 @@ clean:
 	rm -rfv configured made installed nompi_hello check.mpi *.error *.output *.cobaltlog
 
 check: nompi_hello install
-	pwd
+#	pwd
 	$(PREFIX)/bin/nompi_hello
 	
 
